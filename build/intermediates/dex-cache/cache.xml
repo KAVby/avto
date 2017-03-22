@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\workspace2\Copy of Avto1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a401870fa5ddf3d4360a2ce3e7bc4231d0f40a6d">
+        <dex dex="C:\Android\workspace2\Copy of Avto1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_86cf90d74b8901a652529f13ed43e7c5f0417319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Android\workspace2\Copy of Avto1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\workspace2\Copy of Avto1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b96ad962ab4970ba867c856fc77c697b01a3f431">
+        <dex dex="C:\Android\workspace2\Copy of Avto1\app\build\intermediates\pre-dexed\debug\instant-run_d2b5dfe432e743637ecb44909ace19fb33d19b93.jar" />
+    </item>
+
+</items>

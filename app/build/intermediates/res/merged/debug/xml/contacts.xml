@@ -1,0 +1,23 @@
+<sas>
+<Currency Id="141">
+	<NumCode>840</NumCode>
+	<CharCode>USD</CharCode>
+	<Scale>1</Scale>
+	<Name>Доллары США</Name>
+	<Rate>4444</Rate>
+</Currency>
+<Currency Id="145">
+	<NumCode>840</NumCode>
+	<CharCode>USD</CharCode>
+	<Scale>1</Scale>
+	<Name>Доллары США</Name>
+	<Rate>19800</Rate>
+</Currency>
+<Currency Id="146">
+	<NumCode>840</NumCode>
+	<CharCode>USD</CharCode>
+	<Scale>1</Scale>
+	<Name>Доллары США</Name>
+	<Rate>4444</Rate>
+</Currency>
+</sas>

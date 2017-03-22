@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Avto</string>
+    <string name="Data1">Заправил:</string>
+    <string name="action_exit">Exit</string>
+    <string name="Data2">Стоимость литра</string>
+    <string name="Data3">руб</string>
+
+</resources>

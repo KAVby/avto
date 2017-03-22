@@ -1,0 +1,4 @@
+#Wed Mar 22 18:43:48 EET 2017
+base.0=C\:\\Android\\workspace2\\Copy of Avto1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Android\\workspace2\\Copy of Avto1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
